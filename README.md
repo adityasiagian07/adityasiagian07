@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ3bWZjdXByamhvbTV3a3NkNmViOXJwejJtc2NtemRianQxcXRjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aYQSXVlQXF7hgWvfri/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd4cmhhMDg1NTByNnd4OGJieXFveDZzcWdsZHFmdnRlZGU3aW0xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G4L3MaPFK9N2pRG5xY/giphy.gif"  />
 </div>
 
 ###
@@ -82,6 +80,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=adityasiagian07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="center">Play Game</h3>
 
 ###
 
